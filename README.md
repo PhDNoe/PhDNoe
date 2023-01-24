@@ -1,5 +1,5 @@
 ![separador](https://i.imgur.com/4gX5WFr.png)
-- 👋 Hi, I’m @PhDNoe. I am an Electronic Engineer and advanced student of software engineering.
+- 👋 Hi, I’m Noelia. I am an Electronic Engineer and advanced student of software engineering.
 - 👀 I am interested in Artificial Intelligence and data science applied to areas such as bioengineering, medicine, cryptocurrencies and video games.
 - 🌱 I’m currently learning SQL and MongoDB.
 - 💞️ I am looking to collaborate on projects that allow me to put into practice all the knowledge I have acquired throughout my professional career as an Electronic Engineer.
