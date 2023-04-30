@@ -1,4 +1,5 @@
 ![separador](https://i.imgur.com/4gX5WFr.png)
+
 - 👋 Hi, I’m Noelia. I am an Electronic Engineer and advanced student of software engineering.
 - 👀 I am interested in Artificial Intelligence and data science applied to areas such as bioengineering, medicine, cryptocurrencies and video games.
 - 🌱 I’m currently learning SQL and MongoDB.
@@ -6,20 +7,14 @@
 
 ![separador](https://i.imgur.com/4gX5WFr.png)
 
-Currently the language I use the most is **Python**. 
-> Libraries:
-> * Pandas
-> * Numpy 
-> * sklearn 
-> * Matplotlib
-> * Seaborn 
-> * Keras
+Currently the languages and technologies I use the most are:
 
-I have also worked with different programming languages such as:
-* Java
-* JavaScript
-* C
-* Matlab
+![tech-stack](./imgs/technologies_white.svg)
+
+I have also worked with different programming languages and techs such as:
+
+![tech-stack2](./imgs/technologies_pt3_white.svg)
+![tech-stack3](./imgs/technologies_pt4_white.svg)
 
 ![separador](https://i.imgur.com/4gX5WFr.png)
 
