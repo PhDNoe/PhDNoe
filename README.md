@@ -1,9 +1,9 @@
 ![separador](https://i.imgur.com/4gX5WFr.png)
 
-👋 Hi, I'm Noelia. I'm a Data Scientist with a background in Electronic Engineering, a PhD in Electronics, and an advanced student of Software Engineering.
-👀 I'm passionate about Artificial Intelligence and applying data science to areas such as Bioengineering, Medicine, Cryptocurrencies, and Video Games.
-🌱 Currently, I'm expanding my skillset by learning MongoDB, the Hadoop Ecosystem, and NLP models like Transformers.
-💞️ I'm actively seeking collaboration opportunities on projects related to Artificial Intelligence.
+* 👋 Hi, I'm Noelia. I'm a Data Scientist with a background in Electronic Engineering, a PhD in Electronics, and an advanced student of Software Engineering.<br>
+* 👀 I'm passionate about Artificial Intelligence and applying data science to areas such as Bioengineering, Medicine, Cryptocurrencies, and Video Games.<br>
+* 🌱 Currently, I'm expanding my skillset by learning MongoDB, the Hadoop Ecosystem, and NLP models like Transformers.<br>
+* 💞️ I'm actively seeking collaboration opportunities on projects related to Artificial Intelligence.
 
 ![separador](https://i.imgur.com/4gX5WFr.png)
 
